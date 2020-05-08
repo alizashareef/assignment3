@@ -1,0 +1,210 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    display: inline-block;
+}
+div.header{
+    background-color: #316DC3;
+    width: 100%;
+    height: 50px;
+}
+
+div.images{
+    margin: 6px 100px;
+    padding: 0px 20px;
+}
+img{
+    margin: 10px;
+}
+p.header{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px auto;
+}
+div.tagline{
+    position: relative;
+    right: 40px;
+    bottom: 10px;
+}
+button{
+    font-size: 12px;
+    color: #333;
+    border: 2px;
+    border-color: #333;
+    height: 25px;
+    width: 90px;
+    position: relative;
+    right: 10px;
+    bottom: 12px;
+}
+div.nevbar{
+    list-style: none;
+    padding: 0 auto;
+    width: 750px;
+    position: relative;
+    bottom: 40px;
+    right: 5px;
+}
+li{
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    border-radius: 15px;
+    width: 80px;
+    height: 20px;
+    font-size: 15px;
+}
+li.big{
+    width: 120px;
+    height: 20px;
+}
+li:hover{
+    background-color: #316DC3;
+    color: white;
+}
+img.banner{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.banner{
+    margin: 0px;
+    padding: 0px;
+}
+.headline{
+    display: block;
+    background-color: #316DC3;
+    width: 80%;
+    height: 20px;
+    text-align: center;
+    color: white;
+    padding: 0 auto;
+    margin: 0px 100px;
+}
+div.intro{
+    display: block;
+    text-align: center;
+    padding: 0 auto;
+    margin-top: 50px;
+}
+h1{
+    display: inline-block;
+}
+.blue{
+    color: #316DC3;
+}
+.green{
+    color: #427900;
+}
+h2{
+    position: relative;
+    bottom: 20px;
+}
+h2 img{
+    position: relative;
+    top: 15px;
+}
+div.introduction{
+    text-align: left;
+    margin: 10px 200px;
+    color: grey;
+    line-height: 1.7em;
+    font-size: 15px;
+}
+div.count{
+    background-color: #244ff2;
+    width: 100%;
+    height: 300px;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+div.counter{
+    padding: 70px 90px;
+}
+p.lgreen{
+    color: rgb(0, 255, 0);
+    font-weight: bold;
+    font-size: 20px;
+}
+div.task{
+    padding: 20px 110px;
+}
+div.tasks{
+    background-color: white;
+    box-shadow: 0px 5px 10px 0px #777;
+    text-align: center;
+    margin: 30px;
+    padding: 30px;
+    width: 250px;
+}
+div.container{
+    display: block;
+}
+div.container2{
+    background-color: #f7f8fa;
+    border:1px solid rgb(212, 212, 212);
+    padding: 20px;
+    margin: 0px 20px;
+    width: 300px;
+    height: 20px;
+}
+div.container1{
+    display: block;
+    padding: 10px 50px;
+}
+h4{
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+}
+img.proj{
+    position: relative;
+    bottom: 10px;
+}
+div.news{
+    width: 20%;
+}
+p.news{
+    color: #777;
+    line-height: 1em;
+    position: relative;
+    left: 900px;
+    bottom: 180px;
+}
+h1.news{
+    position: relative;
+    bottom: 180px;
+}
+h2.news{
+    position: relative;
+    bottom: 200px;
+}
+div.footer{
+    background-color: #316DC3;
+    width: 100%;
+    height: 40px;
+    color: white;
+    font-size: 11px;
+    margin: 0px;
+}
+div.footer p{
+    padding: 15px 0px;
+    padding-left: 100px;
+}
+.contdetls{
+    background-color: #333333;
+    width: 100%;
+    height: 300px;
+    margin: 0px;
+}
+img.gallery{
+    width: 200px;
+    height:130px;
+}
+div.gallery{
+    padding: 80px;
+}
